@@ -1,0 +1,23 @@
+{
+  "name": "embed-bot-js",
+  "version": "1.0.0",
+  "description": "Node JS Implementation of my Ticket Bot orginally written in python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colink02/Embed-Bot-JS.git"
+  },
+  "author": "Colin Kinzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colink02/Embed-Bot-JS/issues"
+  },
+  "homepage": "https://github.com/Colink02/Embed-Bot-JS#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.10.0"
+  }
+}

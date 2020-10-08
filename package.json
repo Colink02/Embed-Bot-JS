@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Colink02/Embed-Bot-JS#readme",
   "dependencies": {
     "discord.js": "^12.3.1",
-    "eslint": "^7.10.0"
+    "eslint": "^7.10.0",
+    "mysql": "^2.18.1",
+    "typescript": "^4.0.3"
   }
 }

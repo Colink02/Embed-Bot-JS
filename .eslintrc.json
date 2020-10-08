@@ -5,7 +5,8 @@
         "es6": true
     },
     "parserOptions": {
-        "ecmaVersion": 2019
+        "ecmaVersion": 2019,
+        "sourceType": "module"
     },
     "rules": {
         "brace-style": [
@@ -32,7 +33,7 @@
         ],
         "handle-callback-err": "off",
         "indent": [
-            "error",
+            "off",
             "tab"
         ],
         "max-nested-callbacks": [
